@@ -1,0 +1,26 @@
+h1 {
+    text-align: center;
+  }
+  
+  label {
+    display: inline-block;
+    width: 150px;
+    margin-right: 10px;
+  }
+  
+  input {
+    width: 100px;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    margin-top: 10px;
+  }
+  
+  #resultado {
+    width: 100px;
+  }
+  
+  
+  
+  
